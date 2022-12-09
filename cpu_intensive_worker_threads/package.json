@@ -12,7 +12,7 @@
     "child_process": "^1.0.2",
     "cluster": "^0.7.7",
     "crypto": "^1.0.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "os": "^0.1.1"
   }
